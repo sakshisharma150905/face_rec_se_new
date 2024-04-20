@@ -1,0 +1,34 @@
+body {
+	margin: 0;
+	background-color: #212121;
+  }
+  
+  .main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background-color: #e0e0e0;
+  }
+  
+  .profile {
+	width: 50%;
+	margin-bottom: 20px;
+  }
+  
+  .video-feed {
+	width: 50%;
+  }
+  
+  .name {
+	font-size: 300%;
+	font-family: monospace;
+  }
+  
+  .email {
+	font-size: 150%;
+	color: #404040;
+	font-family: monospace;
+  }
+  
